@@ -833,6 +833,11 @@ h1 {
   text-wrap: balance;
 }
 
+.about-copy strong {
+  color: var(--ink);
+  font-weight: 700;
+}
+
 .about-copy > p {
   margin: 0;
   color: color-mix(in srgb, var(--ink) 78%, var(--cream));
